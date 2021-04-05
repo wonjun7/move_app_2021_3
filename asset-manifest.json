@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wonjun7/move_app_2021_3/static/css/main.9ac995ab.chunk.css",
-    "main.js": "/wonjun7/move_app_2021_3/static/js/main.399c6e14.chunk.js",
-    "main.js.map": "/wonjun7/move_app_2021_3/static/js/main.399c6e14.chunk.js.map",
-    "runtime-main.js": "/wonjun7/move_app_2021_3/static/js/runtime-main.13c97a84.js",
-    "runtime-main.js.map": "/wonjun7/move_app_2021_3/static/js/runtime-main.13c97a84.js.map",
-    "static/js/2.70fa5236.chunk.js": "/wonjun7/move_app_2021_3/static/js/2.70fa5236.chunk.js",
-    "static/js/2.70fa5236.chunk.js.map": "/wonjun7/move_app_2021_3/static/js/2.70fa5236.chunk.js.map",
-    "index.html": "/wonjun7/move_app_2021_3/index.html",
-    "static/css/main.9ac995ab.chunk.css.map": "/wonjun7/move_app_2021_3/static/css/main.9ac995ab.chunk.css.map",
-    "static/js/2.70fa5236.chunk.js.LICENSE.txt": "/wonjun7/move_app_2021_3/static/js/2.70fa5236.chunk.js.LICENSE.txt"
+    "main.css": "/move_app_2021_3/static/css/main.9ac995ab.chunk.css",
+    "main.js": "/move_app_2021_3/static/js/main.399c6e14.chunk.js",
+    "main.js.map": "/move_app_2021_3/static/js/main.399c6e14.chunk.js.map",
+    "runtime-main.js": "/move_app_2021_3/static/js/runtime-main.38957987.js",
+    "runtime-main.js.map": "/move_app_2021_3/static/js/runtime-main.38957987.js.map",
+    "static/js/2.70fa5236.chunk.js": "/move_app_2021_3/static/js/2.70fa5236.chunk.js",
+    "static/js/2.70fa5236.chunk.js.map": "/move_app_2021_3/static/js/2.70fa5236.chunk.js.map",
+    "index.html": "/move_app_2021_3/index.html",
+    "static/css/main.9ac995ab.chunk.css.map": "/move_app_2021_3/static/css/main.9ac995ab.chunk.css.map",
+    "static/js/2.70fa5236.chunk.js.LICENSE.txt": "/move_app_2021_3/static/js/2.70fa5236.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13c97a84.js",
+    "static/js/runtime-main.38957987.js",
     "static/js/2.70fa5236.chunk.js",
     "static/css/main.9ac995ab.chunk.css",
     "static/js/main.399c6e14.chunk.js"
